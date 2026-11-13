@@ -1,0 +1,20 @@
+IS 3196 (Part 1): LPG Cylinders for Domestic and Commercial Use
+
+Clause 1: Scope
+Covers welded steel LPG cylinders of water capacity 5 kg to 50 kg for
+domestic and commercial cooking use.
+
+Clause 6: Design and Construction
+6.1 Cylinders shall be manufactured from steel sheet conforming to IS 6240.
+6.2 Minimum wall thickness shall be calculated as per Annex B based on
+design pressure of not less than 25.5 kg/cm2.
+
+Clause 10: Testing
+10.1 Every cylinder shall undergo hydrostatic stretch testing before being
+approved for filling.
+10.2 Cylinders shall be re-tested every 5 years (for cylinders under 10
+years old) or every 2.5 years (for older cylinders).
+
+Clause 13: Marking
+13.1 Cylinders shall be stamped with the BIS Standard Mark, water capacity,
+tare weight, and date of manufacture and test.

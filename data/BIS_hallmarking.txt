@@ -1,0 +1,23 @@
+BIS-HUID: Hallmarking of Gold and Silver Jewellery
+
+Section 1: What is Hallmarking
+Hallmarking is the BIS certification of the purity of gold and silver
+jewellery and artefacts sold in India. It has been mandatory for gold
+jewellery in notified categories since June 2021.
+
+Section 2: HUID (Hallmark Unique Identification)
+2.1 Every piece of hallmarked jewellery is engraved with a unique
+alphanumeric HUID code during hallmarking at an Assaying & Hallmarking
+Centre (AHC).
+2.2 The HUID can be verified by consumers through the BIS Care app.
+
+Section 3: Registration for Jewellers
+3.1 Jewellers must register with BIS (online, via the BIS Care portal)
+before selling hallmarked jewellery.
+3.2 Registration is granted after document verification; no factory
+inspection is required for jewellers (unlike product certification).
+
+Section 4: Purity / Fineness Grades
+4.1 Gold jewellery is hallmarked in the following caratage/fineness grades:
+14K (585), 18K (750), 20K (833), 22K (916), 23K (958), 24K (999).
+4.2 Silver articles are hallmarked as per IS 2112.

@@ -1,0 +1,24 @@
+IS 2347: Specification for Pressure Cookers (Domestic)
+
+Clause 1: Scope
+This standard covers requirements for aluminium and stainless steel domestic
+pressure cookers of capacity 1 to 20 litres.
+
+Clause 5: Material
+5.1 Body and lid shall be made of aluminium alloy or stainless steel of food
+grade quality.
+
+Clause 7: Safety Devices
+7.1 Every pressure cooker shall be fitted with at least three safety
+devices: an operating vent/whistle, a safety valve, and a gasket-release
+system.
+7.2 The safety valve shall function at a pressure not exceeding 1.4 kg/cm2
+above the operating pressure.
+
+Clause 9: Marking
+9.1 Each cooker shall bear the BIS Standard Mark, capacity in litres,
+manufacturer's name, and month/year of manufacture.
+
+Clause 12: Testing
+12.1 Every batch shall undergo a hydraulic pressure test at 2.5 times the
+working pressure before dispatch.

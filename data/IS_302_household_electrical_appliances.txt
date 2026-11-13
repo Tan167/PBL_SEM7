@@ -1,0 +1,28 @@
+IS 302 (Part 1): Safety of Household and Similar Electrical Appliances
+
+Clause 1: Scope
+This standard applies to electrical appliances for household use with a rated
+voltage not exceeding 250 V for single-phase appliances and 480 V for other
+appliances.
+
+Clause 5: Marking and Instructions
+5.1 Appliances shall be marked with rated voltage, rated input power, and
+manufacturer's name or trademark.
+5.2 Class II appliances shall be marked with the double-insulation symbol.
+5.3 Instructions for use shall be provided in English and Hindi, or in a
+regional language as agreed with the purchaser.
+
+Clause 8: Protection Against Access to Live Parts
+8.1 Appliances shall be so constructed that there is adequate protection
+against accidental contact with live parts.
+8.2 Test: a standard test finger (IEC 61032, test probe B) shall not touch
+live parts when inserted through any opening.
+
+Clause 11: Heating
+11.1 Appliances shall not attain excessive temperatures during normal use.
+11.2 Temperature rise limits for external metal parts shall not exceed 30 K
+above ambient for parts likely to be touched during normal handling.
+
+Clause 22: Construction
+22.1 Appliances shall be so constructed that the risk of fire is reduced,
+even under fault conditions.

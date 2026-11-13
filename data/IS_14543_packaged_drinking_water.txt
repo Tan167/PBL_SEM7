@@ -1,0 +1,22 @@
+IS 14543: Packaged Natural Mineral Water and Packaged Drinking Water — Specification
+
+Clause 1: Scope
+This standard prescribes the requirements, methods of sampling, and test for
+packaged drinking water intended for direct human consumption.
+
+Clause 4: Requirements
+4.1 The water shall be colourless, odourless, and free from suspended matter.
+4.2 pH value shall be between 6.5 and 8.5.
+4.3 Total dissolved solids shall not exceed 500 mg/l for packaged drinking
+water (other than mineral water).
+
+Clause 6: Packing and Marking
+6.1 Every package shall be marked with the BIS Standard Mark under a licence
+from the Bureau of Indian Standards.
+6.2 Marking shall include batch or lot number, date of manufacture, and
+best-before date.
+6.3 Manufacturing unit's FSSAI licence number shall also be displayed.
+
+Clause 9: Sampling and Testing
+9.1 Samples shall be drawn as per IS 14543 Annex A and tested for
+microbiological and chemical parameters before release of a batch.

@@ -1,0 +1,27 @@
+BIS-CERT: BIS Product Certification Scheme — Overview
+
+Section 1: What Certification Covers
+BIS product certification confirms that a product conforms to the relevant
+Indian Standard. Certified products are permitted to carry the BIS Standard
+Mark (ISI Mark).
+
+Section 2: Types of Certification
+2.1 ISI Mark Scheme — voluntary/mandatory certification under IS 2:2016,
+covering most consumer and industrial products.
+2.2 Compulsory Registration Scheme (CRS) — mandatory for specified
+electronics and IT products; registration (not a licence) is granted after
+testing at a BIS-recognized lab.
+2.3 Voluntary Certification — for products not under mandatory order, a
+manufacturer may still apply for the ISI mark to build consumer trust.
+
+Section 3: Application Process
+3.1 Applications are filed online via the BIS Care / Manak Online portal.
+3.2 A factory inspection and sample testing at a BIS-recognized laboratory
+follow the application.
+3.3 On satisfactory results, a licence (ISI scheme) or registration (CRS)
+is granted, permitting use of the mark.
+
+Section 4: Fees and Validity
+4.1 Licences are typically granted for one to two years and are renewable.
+4.2 Fee structure includes a one-time application fee, annual marking fee,
+and testing charges, as notified by BIS from time to time.

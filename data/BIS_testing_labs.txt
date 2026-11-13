@@ -1,0 +1,20 @@
+BIS-LAB: Recognized Testing Laboratories
+
+Section 1: BIS Own Laboratories
+BIS operates its own testing laboratories in several regions, including
+Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, and Guwahati, each
+equipped to test products against specific groups of Indian Standards.
+
+Section 2: BIS-Recognized Outside Laboratories
+2.1 In addition to its own labs, BIS recognizes independent third-party
+laboratories that meet accreditation requirements (typically NABL
+accreditation) to test against specific Indian Standards.
+2.2 A list of recognized outside laboratories, by product/standard, is
+published and updated on the BIS website.
+
+Section 3: How to Locate a Lab for a Given Standard
+3.1 Applicants can identify the nearest recognized laboratory for their
+product's standard via the BIS regional office or the Manak Online portal's
+lab-locator feature.
+3.2 Only test reports from a BIS-recognized laboratory are accepted for
+certification/licensing purposes.

@@ -1,0 +1,20 @@
+IS 9873 (Part 1): Safety of Toys — Mechanical and Physical Properties
+
+Clause 1: Scope
+Applies to all toys intended for use by children under 14 years, whether or
+not designed to be used exclusively for play.
+
+Clause 4: General Requirements
+4.1 Toys shall be free from sharp edges and points that could cause injury.
+4.2 Small parts that could be swallowed are prohibited in toys intended for
+children under 36 months, as determined by the small-parts cylinder test.
+
+Clause 6: Marking
+6.1 Every toy or its package shall carry the BIS Standard Mark and, where
+relevant, an age-grading warning label.
+6.2 Electrically operated toys shall additionally comply with IS 302 Part 2
+Section 25 for toy safety.
+
+Clause 8: Flammability
+8.1 Toy materials shall not burn at a rate faster than 30 mm per second when
+tested per the method in Annex C.
